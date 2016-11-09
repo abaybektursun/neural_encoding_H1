@@ -11,5 +11,7 @@ This code calculates the spike-triggered average.The spike-triggered average is 
 
 ##What do we learn from the spike-triggered average?
 What is the spike-triggered average useful for? We can use it to predict the times of spikes given a new random piece of stimulus.
+
+
 ![alt text](docs/3.png)
 ![alt text](docs/4.png)
